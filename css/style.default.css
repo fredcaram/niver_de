@@ -49,10 +49,10 @@ section {
   height: 100%;
   left: 0;
   top: 0;
-  background: #000;
+  background: #111;
   z-index: 2;
   opacity: 0.6;
-  filter: alpha(opacity=60);
+  filter: alpha(opacity=10);
 }
 .heading {
   margin-bottom: 40px;
